@@ -1,0 +1,17 @@
+{
+  "Alexandria": "الاسكندرية",
+  "temp_max": "الدرجه الكبرى",
+  "temp_min": "الدرجه الصغرى",
+  "clear sky": "سماء صافية",
+  "few clouds": "عدد قليل من الغيوم",
+  "scattered clouds": "غيوم متفرقة",
+  "overcast clouds": "غيوم ملبدة بالغيوم",
+  "broken clouds": "الغيوم المكسورة",
+  "rain": "مطر",
+  "thunderstorm": "عاصفة رعدية",
+  "snow": "ثلج",
+  "mist": "شَبُّورَة",
+  "City not found": "اسم المدينة غير موجود",
+  "Enter city with English":"ادخل اسم المدينه باللغه الانجليزيه",
+  "Get Weather":"معرفه الطقس"
+}
